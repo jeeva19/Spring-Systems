@@ -1,0 +1,20 @@
+{"schema": {
+"product UOM": {
+"title" : "Product UOM",
+"description" : "UOM",
+"type": "string",
+"enum": ["id-1","id-2"]
+
+}
+}
+ "form": [
+    {
+      "key" : "product UOM",
+      "titleMap" : {
+        "id-1":"NW- Newton",
+        "id-2":"EA-each"   
+      }
+    }
+]
+
+}
