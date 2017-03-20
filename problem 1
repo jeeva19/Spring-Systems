@@ -1,0 +1,39 @@
+{
+"Product Details": {
+"Select Vendor" : {
+"title": "Select Vendor",
+"description" : "select a Vendor",
+"type" : "string",
+"vendor": ["Air Filters  5 Inc( V)", "vendor 2", "vendor 3"]
+},
+
+"product description" :{
+"title": "Product description",
+"description" : "select a product description",
+"type" : "string",
+"description" : ["product 1", "product 2"]
+},
+"product UOM": {
+"title" : "Product UOM",
+"description" : "UOM",
+"type": "string",
+"UOM" :["NW- Newton","EA-Each"]
+},
+}
+
+"Product Identifiers": {
+"GITN Code, UPC or EAN":{ 
+"title":"GITN Code, UPC or EAN",
+"description" : "identifier1",
+"type": "string"
+},
+"vendor item number" : {
+"title":"Vendor Item Number",
+"description" : "identifier 2",
+"type" : "string"
+}
+}
+
+}
+
+
